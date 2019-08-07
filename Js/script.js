@@ -37,6 +37,6 @@ $(document).ready(function() {
 
   // hiding the text input when click in + button
   $(".heading__btn").on("click", function() {
-    $(".add-list").fadeToggle(500);
+    $(".add-list").fadeToggle(1000);
   });
 });
